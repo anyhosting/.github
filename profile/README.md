@@ -1,6 +1,6 @@
 # Any hosting
 
-You can hosting any services in anyhosting platform quickly.
+AnyHosting is a platform that your can create any services quickly.
 
 
 ## Hi there 👋
