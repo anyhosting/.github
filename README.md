@@ -1,3 +1,3 @@
 # Any hosting
 
-You can hosting any services in anyhosting platform.
+You can hosting any services in anyhosting platform quickly.
